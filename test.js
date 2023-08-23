@@ -1,1 +1,1 @@
-let sum = 0;
+let sum = 10;
